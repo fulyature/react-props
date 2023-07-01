@@ -1,5 +1,5 @@
 {
-  "homepage": "https://fulyature.github.io/third-react-project-props",
+  "homepage": "https://fulyature.github.io/react-props",
   "name": "first-app",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "predeplay": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
