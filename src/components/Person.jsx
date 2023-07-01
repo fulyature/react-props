@@ -3,7 +3,6 @@ import Name from "./Name"
 
 
 const Person = (props) => {
-  console.log(props);
   return (
     <div>
 
